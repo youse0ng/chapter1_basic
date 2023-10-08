@@ -26,12 +26,12 @@ git add README.md 파일을 커밋에 포함될 파일로 등록한다.
 2. 원격 저장소의 주소를 복사해서 지역 저장소에 알려줄 필요가 있다. 목적은 지역 저장소의 커밋을 원격 저장소에 등록하기 위함이다.
 https://github.com/youse0ng/chapter1_basic.git
 
-3. git remote add origin https://github.com/youse0ng/chapter1_basic.git 을 터미널에 실행한다.
+git remote add origin https://github.com/youse0ng/chapter1_basic.git 을 터미널에 실행한다.
 
-4. git push origin main 명령어 :
+3. git push origin main 명령어 :
 지역 저장소에서 생성한 커밋을 원격 저장소에 등록
 
-5. 원격 저장소 페이지 접속해서 커밋이 성공적으로 등록되었는지 확인
+4. 원격 저장소 페이지 접속해서 커밋이 성공적으로 등록되었는지 확인
 README.md 파일은 원격 저장소의 메인 페이지 역할을한다. 
 README.md 파일의 내용이 메인 페이지에 노출되면 제대로 커밋을 등록한거다.
 

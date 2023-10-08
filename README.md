@@ -1,3 +1,5 @@
+![스크린샷 2023-10-08 170000](https://github.com/youse0ng/chapter1_basic/assets/130890430/4720e4ac-e324-4329-a712-da21bf2003bc)
+
 깃과 깃허브 첫 실습
 
 1. git init 명령어
